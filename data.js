@@ -82,3 +82,5 @@ trimEnd()
 trimStart()
 valueOf()
 
+// How to traverse a JavaScript object 
+
